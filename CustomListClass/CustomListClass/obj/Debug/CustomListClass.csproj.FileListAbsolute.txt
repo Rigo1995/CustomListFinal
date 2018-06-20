@@ -1,0 +1,7 @@
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\bin\Debug\CustomListClass.exe.config
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\bin\Debug\CustomListClass.exe
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\bin\Debug\CustomListClass.pdb
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\obj\Debug\CustomListClass.csprojAssemblyReference.cache
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\obj\Debug\CustomListClass.csproj.CoreCompileInputs.cache
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\obj\Debug\CustomListClass.exe
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\obj\Debug\CustomListClass.pdb

@@ -1,0 +1,17 @@
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\CustomListTest.dll
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\CustomListTest.pdb
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\CustomListClass.exe
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\CustomListClass.pdb
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\CustomListClass.exe.config
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\obj\Debug\CustomListTest.csprojAssemblyReference.cache
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\obj\Debug\CustomListTest.csproj.CoreCompileInputs.cache
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\obj\Debug\CustomListTest.csproj.CopyComplete
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\obj\Debug\CustomListTest.dll
+C:\Users\Rigoberto Ramirez\Desktop\portfolio\Projects\CustomListClass\CustomListClass\CustomListTest\obj\Debug\CustomListTest.pdb
